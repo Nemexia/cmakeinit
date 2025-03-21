@@ -1,0 +1,2 @@
+# cmakeinit
+Initial cmake template
